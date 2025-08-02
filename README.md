@@ -3,17 +3,17 @@
 
 <h1 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width="30px"> Mahesh Sadupalli </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Research+Interest+in+Quantum;AI+Student@BTU+Germany;Data+Science+Student+IIT-Madras;Python+is+my+Horcrux"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Research+Interest+in+Optimisation;AI+Student@BTU+Germany;Data+Science+Student+IIT-Madras;Python+is+my+Horcrux"></a>
 </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj0605-datasci&label=Profile%20views&color=0e75b6&style=flat" alt="sj0605-datasci" /> </p>
 
-- Working on **Lab Machine Learning at FU Berlin**
+- Working on **LLM + RAG Verification**
 
-- Learning **Deep Learning, Haskell**
+- Learning **Computer Vision**
 
-- Proficient at **Python, JAVA, Machine learning**
+- Proficient at **Python, JAVA, Machine learning, Deep Learning and NLP**
 
 
 
