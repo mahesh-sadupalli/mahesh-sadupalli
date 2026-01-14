@@ -77,17 +77,3 @@ AI/ML Research Engineer pursuing M.Sc. in Artificial Intelligence at BTU Cottbus
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
 </p>
-
-## GitHub Statistics
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-sadupalli&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-sadupalli&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahesh-sadupalli&theme=dark&hide_border=true)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
