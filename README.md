@@ -34,7 +34,7 @@ AI/ML Research Engineer pursuing M.Sc. in Artificial Intelligence at BTU Cottbus
 <a href="https://mahesh-sadupalli.github.io/portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahesh-sadupalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://kaggle.com/maheshsadupalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-<a href="https://maheshsadupalli.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="https://blackforestde.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
 </p>
 
 ## Technical Stack
@@ -80,10 +80,14 @@ AI/ML Research Engineer pursuing M.Sc. in Artificial Intelligence at BTU Cottbus
 
 ## GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-sadupalli&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahesh-sadupalli" /></p>
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-sadupalli&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-sadupalli&show_icons=true&locale=en&theme=dark" alt="mahesh-sadupalli" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-sadupalli&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-sadupalli&theme=dark" alt="mahesh-sadupalli" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahesh-sadupalli&theme=dark&hide_border=true)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
