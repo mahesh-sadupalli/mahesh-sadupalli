@@ -1,14 +1,14 @@
 <h1 align="center">Mahesh Sadupalli</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Engineer;M.Sc.+AI+Student+%7C+BTU+%26+TU+Berlin;Data+Science+%7C+IIT+Madras;Computer+Vision+%7C+Deep+Learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+%26+Engineer;M.Sc.+AI+Student+%7C+BTU+%26+TU+Berlin;Data+Science+%7C+IIT+Madras;Computer+Vision+%7C+Deep+Learning"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-sadupalli&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-sadupalli" /> </p>
 
 ## About Me
 
-AI/ML Research Engineer pursuing M.Sc. in Artificial Intelligence at BTU Cottbus-Senftenberg with visiting student status at TU Berlin. Currently working as Data Science Working Student at Robert Koch Institute Berlin, developing multimodal deep learning models for healthcare applications.
+AI Engineer pursuing M.Sc. in Artificial Intelligence at BTU Cottbus-Senftenberg with visiting student status at TU Berlin. Currently working as Data Science Working Student at Robert Koch Institute Berlin, developing multimodal deep learning models for healthcare applications.
 
 **Current Focus:**
 - Neural network-based data compression (Master's Thesis with Rolls Royce, BTU, TU Berlin, Friendship Systems)
