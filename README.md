@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer;LLM+Builder+From+Scratch;Deep+Learning+%7C+Systems+Thinker;Problem+Solving+Over+Prompting">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=AI+Engineer+%7C+LLM+Builder;Architecture+Over+Wrappers;Systems+Thinking+in+AI;From+Scratch+to+Scale">
   </a>
 </p>
 
@@ -12,21 +12,23 @@
 
 ---
 
-## About Me
+## Who I Am
 
-I am Mahesh Sadupalli, an AI Engineer based in Germany with a Master’s in Artificial Intelligence from BTU Cottbus-Senftenberg. I have worked across healthcare AI systems, multimodal deep learning, and production-grade machine learning pipelines.
+I am Mahesh Sadupalli, an AI engineer and systems thinker based in Germany. I hold a Master’s in Artificial Intelligence and work at the intersection of deep learning, architecture design, and real-world AI deployment.
 
-My work focuses on deep learning architecture, training dynamics, system design, and scalable AI engineering. I care about fundamentals, mathematical clarity, and building systems from first principles rather than following surface-level trends.
+My focus is not just using AI systems — but understanding and building them from first principles.
 
 ---
 
-## My Journey
+## From Scratch to 20K+
 
-I started from scratch — no visibility, no funding, no strong network. Just curiosity and persistence.
+I began without resources or visibility. Just deep curiosity and structured learning.
 
-I built projects independently, debugged relentlessly, and shared what I learned publicly. Instead of following trends, I focused on explaining fundamentals and documenting real engineering challenges.
+I built independently, studied fundamentals, debugged failures, and shared everything publicly. Over time, this consistency evolved into a growing AI community of 20,000+ followers.
 
-Over time, that consistency grew into a technical AI community of 20,000+ followers. Teaching strengthened my understanding. Building strengthened my execution. Both shaped my direction toward architecture-driven AI.
+The growth was not driven by trends. It was driven by clarity and fundamentals.
+
+Teaching sharpened my thinking. Building sharpened my execution.
 
 ---
 
@@ -34,19 +36,24 @@ Over time, that consistency grew into a technical AI community of 20,000+ follow
 
 Coding era is rapidly changing. The most important skill going forward is structured problem solving — the type of reasoning strong AI systems attempt to model.
 
-The field is shifting from prompt engineering to architecture engineering. From API usage to system design.
+The industry is shifting from prompt engineering to architecture engineering. From calling APIs to designing reasoning systems.
 
-That is why I focus on where AI models fail and how to improve them at the core level. I am not building only LLM wrappers. I am studying and implementing models from scratch to understand:
+That is why I focus on:
 
-- Training stability  
-- Catastrophic forgetting  
-- Neural compression  
-- Multimodal alignment  
-- Scalable inference systems  
-- Production ML architecture  
+- Understanding where AI models fail  
+- Improving model robustness and generalization  
+- Studying catastrophic forgetting  
+- Designing multimodal learning systems  
+- Building neural networks from scratch  
+- Developing foundations for future physical AI systems  
 
-The goal is not to chase tools.  
-The goal is to build the core.
+I am not building only LLM wrappers.  
+I am building and studying LLMs from scratch.
+
+This repository is a documentation of that journey.
+
+AI will not reward the fastest prompter.  
+It will reward the deepest builder.
 
 ---
 
@@ -57,7 +64,6 @@ The goal is to build the core.
     <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
     <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
-    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
     <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
     <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
