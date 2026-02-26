@@ -26,9 +26,9 @@ I am **Mahesh Sadupalli** — an AI engineer, systems thinker, and graduate rese
 
 I didn't start with connections, resources, or visibility. I started with curiosity and an internet connection.
 
-No shortcuts. No viral moments. Just consistent, structured learning,  day after day, studying fundamentals, breaking things deliberately, debugging failures patiently, and sharing everything publicly. Every confused moment became a post. Every breakthrough became a lesson. Every mistake became content worth documenting.
+No shortcuts. No viral moments. Just consistent, structured learning — day after day — studying fundamentals, breaking things deliberately, debugging failures patiently, and sharing everything publicly. Every confused moment became a post. Every breakthrough became a lesson. Every mistake became content worth documenting.
 
-Slowly, something unexpected happened. The consistency compounded. The clarity attracted people. What began as a personal learning journal became a growing AI community of **20,000+ followers** across platforms.
+The consistency compounded. The clarity attracted people. What began as a personal learning journal grew into **[@blackforestlabs](https://www.instagram.com/blackforestlabs)** — an Instagram community of **20,000+ followers** built entirely around one thing: making AI fundamentals genuinely understandable.
 
 The growth was never chased. It was earned — one honest explanation at a time.
 
@@ -80,11 +80,10 @@ This repository is the evidence of that commitment.
 
 ## Let's Connect
 
-If you're someone who thinks in systems, builds from first principles, or is just genuinely curious about how AI really works — I'd love to hear from you.
-
 <p align="left">
 <a href="https://mahesh-sadupalli.github.io/portfolio" target="blank">Portfolio</a> •
 <a href="https://www.linkedin.com/in/mahesh-sadupalli" target="blank">LinkedIn</a> •
+<a href="https://www.instagram.com/blackforestlabs" target="blank">Instagram</a> •
 <a href="https://kaggle.com/maheshsadupalli" target="blank">Kaggle</a> •
 <a href="https://blackforestde.medium.com" target="blank">Medium</a>
 </p>
