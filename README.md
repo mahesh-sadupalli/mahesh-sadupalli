@@ -12,7 +12,7 @@
 
 ## The Beginning
 
-Every story starts somewhere. Mine started with a single question — *how does this actually work?*
+Every story starts somewhere. Mine started with a single question: *How does this actually work?*
 
 Not "how do I use it." Not "what prompt gives the best output." But the deeper, harder question: what is happening underneath, and why?
 
@@ -26,13 +26,13 @@ I am **Mahesh Sadupalli** — an AI engineer, systems thinker, and graduate rese
 
 I didn't start with connections, resources, or visibility. I started with curiosity and an internet connection.
 
-No shortcuts. No viral moments. Just consistent, structured learning — day after day — studying fundamentals, breaking things deliberately, debugging failures patiently, and sharing everything publicly. Every confused moment became a post. Every breakthrough became a lesson. Every mistake became content worth documenting.
+No shortcuts. No viral moments. Just consistent, structured learning, day after day — studying fundamentals, breaking things deliberately, debugging failures patiently, and sharing everything publicly. Every confused moment became a post. Every breakthrough became a lesson. Every mistake became content worth documenting.
 
-The consistency compounded. The clarity attracted people. What began as a personal learning journal grew into **[@blackforestlabs](https://www.instagram.com/blackforestlabs)** — an Instagram community of **20,000+ followers** built entirely around one thing: making AI fundamentals genuinely understandable.
+The consistency compounded. The clarity attracted people. What began as a personal learning journal grew into **[@blackforesttlabs](https://www.instagram.com/blackforestlabs)** — an Instagram community of **20,000+ followers** built entirely around one thing: making AI fundamentals genuinely understandable.
 
 The growth was never chased. It was earned — one honest explanation at a time.
 
-Teaching forced me to truly understand. Building forced me to truly execute. The two loops — *learning and sharing* — became the engine of everything that followed.
+Teaching forced me to truly understand. Building forced me to truly execute. The two loops — *learning and sharing*,  became the engine of everything that followed.
 
 ---
 
@@ -42,9 +42,9 @@ As I built, I started noticing a shift happening across the entire AI industry.
 
 Everyone was calling APIs. Everyone was engineering prompts. Tutorials promised you could "build an AI app in 10 minutes." And technically, you could.
 
-But something felt hollow about it. A wrapper around a model isn't a contribution to AI — it's consumption of it. And as language models grew more powerful, I realized the real leverage wasn't in prompting them better. It was in *understanding them deeper*.
+But something felt hollow about it. A wrapper around a model isn't a contribution to AI,  it's consumption of it. And as language models grew more powerful, I realized the real leverage wasn't in prompting them better. It was in *understanding them deeper*.
 
-The era of prompt engineering is giving way to the era of **architecture engineering** — designing reasoning systems, not just calling them.
+The era of prompt engineering is giving way to the era of **architecture engineering**,  designing reasoning systems, not just calling them.
 
 I chose to build from that deeper place.
 
@@ -54,7 +54,7 @@ I chose to build from that deeper place.
 
 This repository is not a collection of tutorials or project demos. It is a documentation of a serious, long-term attempt to understand and build AI systems from first principles.
 
-That means studying where models fail — not just when they succeed. It means confronting hard problems like catastrophic forgetting, where a model learns something new and silently erases what it knew before. It means designing multimodal systems that fuse language, vision, and audio into unified architectures. It means building neural networks from scratch, not to reinvent PyTorch, but to genuinely understand what every gradient update is doing and why.
+That means studying where models fail,  not just when they succeed. It means confronting hard problems like catastrophic forgetting, where a model learns something new and silently erases what it knew before. It means designing multimodal systems that fuse language, vision, and audio into unified architectures. It means building neural networks from scratch, not to reinvent PyTorch, but to genuinely understand what every gradient update is doing and why.
 
 The longer arc points toward physical AI — systems that don't just generate text but interact with and reason about the real world. That future demands engineers who understand the foundations, not just the APIs.
 
@@ -83,7 +83,7 @@ This repository is the evidence of that commitment.
 <p align="left">
 <a href="https://mahesh-sadupalli.github.io/portfolio" target="blank">Portfolio</a> •
 <a href="https://www.linkedin.com/in/mahesh-sadupalli" target="blank">LinkedIn</a> •
-<a href="https://www.instagram.com/blackforestlabs" target="blank">Instagram</a> •
+<a href="https://www.instagram.com/blackforesttlabs" target="blank">Instagram</a> •
 <a href="https://kaggle.com/maheshsadupalli" target="blank">Kaggle</a> •
-<a href="https://blackforestde.medium.com" target="blank">Medium</a>
+<a href="https://blackforesttlabs.medium.com" target="blank">Medium</a>
 </p>
