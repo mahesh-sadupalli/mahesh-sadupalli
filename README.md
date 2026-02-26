@@ -1,79 +1,75 @@
 <h1 align="center">Mahesh Sadupalli</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer;M.Sc.+AI+Student+%7C+BTU+%26+TU+Berlin;Data+Science+%7C+IIT+Madras;Computer+Vision+%7C+Deep+Learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer;LLM+Builder+From+Scratch;Deep+Learning+%7C+Systems+Thinker;Problem+Solving+Over+Prompting">
+  </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-sadupalli&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-sadupalli" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mahesh-sadupalli&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-sadupalli" />
+</p>
+
+---
 
 ## About Me
 
-AI Engineer pursuing M.Sc. in Artificial Intelligence at BTU Cottbus-Senftenberg with visiting student status at TU Berlin. Currently working as Data Science Working Student at Robert Koch Institute Berlin, developing multimodal deep learning models for healthcare applications.
+I am Mahesh Sadupalli, an AI Engineer based in Germany with a Master’s in Artificial Intelligence from BTU Cottbus-Senftenberg. I have worked across healthcare AI systems, multimodal deep learning, and production-grade machine learning pipelines.
 
-**Current Focus:**
-- Neural network-based data compression (Master's Thesis with Rolls Royce, BTU, TU Berlin, Friendship Systems)
-- Multimodal deep learning combining satellite imagery with sociodemographic data
-- Computer vision applications and explainability techniques
-- Production ML systems and MLOps
+My work focuses on deep learning architecture, training dynamics, system design, and scalable AI engineering. I care about fundamentals, mathematical clarity, and building systems from first principles rather than following surface-level trends.
 
-**Technical Expertise:**
-- Deep Learning: PyTorch, CNNs, Vision Transformers, GANs, Autoencoders
-- Computer Vision: OpenCV, Satellite Image Processing, Object Detection
-- MLOps: Docker, Kubernetes, AWS, Terraform, CI/CD
-- Programming: Python, C, Java, SQL
+---
 
-**Achievements:**
-- UN-ITU Young AI Leader
-- EY Databeats 2024 Hackathon Winner
-- AI for Good Berlin Hub Leader
-- EY Open Science Ambassador
+## My Journey
 
-## Connect With Me
+I started from scratch — no visibility, no funding, no strong network. Just curiosity and persistence.
 
-<p align="left">
-<a href="https://mahesh-sadupalli.github.io/portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahesh-sadupalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://kaggle.com/maheshsadupalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-<a href="https://blackforestde.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-</p>
+I built projects independently, debugged relentlessly, and shared what I learned publicly. Instead of following trends, I focused on explaining fundamentals and documenting real engineering challenges.
+
+Over time, that consistency grew into a technical AI community of 20,000+ followers. Teaching strengthened my understanding. Building strengthened my execution. Both shaped my direction toward architecture-driven AI.
+
+---
+
+## What I Am Building
+
+Coding era is rapidly changing. The most important skill going forward is structured problem solving — the type of reasoning strong AI systems attempt to model.
+
+The field is shifting from prompt engineering to architecture engineering. From API usage to system design.
+
+That is why I focus on where AI models fail and how to improve them at the core level. I am not building only LLM wrappers. I am studying and implementing models from scratch to understand:
+
+- Training stability  
+- Catastrophic forgetting  
+- Neural compression  
+- Multimodal alignment  
+- Scalable inference systems  
+- Production ML architecture  
+
+The goal is not to chase tools.  
+The goal is to build the core.
+
+---
 
 ## Technical Stack
 
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+    <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+    <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+<a href="https://mahesh-sadupalli.github.io/portfolio" target="blank">Portfolio</a> •
+<a href="https://www.linkedin.com/in/mahesh-sadupalli" target="blank">LinkedIn</a> •
+<a href="https://kaggle.com/maheshsadupalli" target="blank">Kaggle</a> •
+<a href="https://blackforestde.medium.com" target="blank">Medium</a>
 </p>
