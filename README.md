@@ -26,7 +26,7 @@ I am **Mahesh Sadupalli** — an AI engineer, systems thinker, and graduate rese
 
 I didn't start with connections, resources, or visibility. I started with curiosity and an internet connection.
 
-No shortcuts. No viral moments. Just consistent, structured learning — day after day — studying fundamentals, breaking things deliberately, debugging failures patiently, and sharing everything publicly. Every confused moment became a post. Every breakthrough became a lesson. Every mistake became content worth documenting.
+No shortcuts. No viral moments. Just consistent, structured learning,  day after day, studying fundamentals, breaking things deliberately, debugging failures patiently, and sharing everything publicly. Every confused moment became a post. Every breakthrough became a lesson. Every mistake became content worth documenting.
 
 Slowly, something unexpected happened. The consistency compounded. The clarity attracted people. What began as a personal learning journal became a growing AI community of **20,000+ followers** across platforms.
 
