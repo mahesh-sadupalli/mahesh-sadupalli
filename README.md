@@ -76,7 +76,7 @@ This repository is the evidence of that commitment.
 
 | Terraform | Docker | Kubernetes | Kafka | Kubeflow | Red Hat |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40" height="40"/> |
+| <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubeflow/kubeflow-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40" height="40"/> |
 
 ---
 
