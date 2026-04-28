@@ -22,13 +22,13 @@ I am **Mahesh Sadupalli** — an AI engineer, systems thinker, and graduate rese
 
 ---
 
-## From Nothing to 20,000+
+## From Nothing to 30,000+
 
 I didn't start with connections, resources, or visibility. I started with curiosity and an internet connection.
 
 No shortcuts. No viral moments. Just consistent, structured learning, day after day — studying fundamentals, breaking things deliberately, debugging failures patiently, and sharing everything publicly. Every confused moment became a post. Every breakthrough became a lesson. Every mistake became content worth documenting.
 
-The consistency compounded. The clarity attracted people. What began as a personal learning journal grew into **[@blackforesttlabs](https://www.instagram.com/blackforestlabs)** — an Instagram community of **20,000+ followers** built entirely around one thing: making AI fundamentals genuinely understandable.
+The consistency compounded. The clarity attracted people. What began as a personal learning journal grew into **[@blackforesttlabs](https://www.instagram.com/blackforestlabs)** — an Instagram community of **30,000+ followers** built entirely around one thing: making AI fundamentals genuinely understandable.
 
 The growth was never chased. It was earned — one honest explanation at a time.
 
@@ -66,15 +66,13 @@ This repository is the evidence of that commitment.
 
 ## Technical Stack
 
-<p align="left">
-    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-    <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-    <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-    <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+**Programming**
+
+<p align="left"> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a> <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/></a> <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a> </p>
+
+**Cloud & Infrastructure**
+
+<p align="left"> <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a> <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a> <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a> <a href="https://www.kubeflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" width="40" height="40"/></a> <a href="https://www.redhat.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40" height="40"/></a> </p>
 
 ---
 
